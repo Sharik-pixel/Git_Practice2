@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6164eae7-2482-4d7d-a737-c3efd7f1742e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaProgramingB15VA" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGsfuHjcthER2uL060aDceaJkZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Alphabet">
+    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_while_do_while_loop.Alphabet" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_while_do_while_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_while_do_while_loop.CountWhileLoop" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_while_do_while_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiveMe5Dollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_while_do_while_loop.GiveMe5Dollars" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_while_do_while_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiveMe5Or10Dollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_while_do_while_loop.GiveMe5Or10Dollars" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_while_do_while_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monkeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_while_do_while_loop.Monkeys" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_while_do_while_loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USStates" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_11_string_comparison_logical.USStates" />
+      <module name="JavaProgrammingB15VA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_11_string_comparison_logical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.USStates" />
+      <item itemvalue="Application.CountWhileLoop" />
+      <item itemvalue="Application.Monkeys" />
+      <item itemvalue="Application.GiveMe5Dollars" />
+      <item itemvalue="Application.GiveMe5Or10Dollars" />
+      <item itemvalue="Application.Alphabet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Alphabet" />
+        <item itemvalue="Application.GiveMe5Or10Dollars" />
+        <item itemvalue="Application.GiveMe5Dollars" />
+        <item itemvalue="Application.Monkeys" />
+        <item itemvalue="Application.CountWhileLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6164eae7-2482-4d7d-a737-c3efd7f1742e" name="Default Changelist" comment="" />
+      <created>1584476871494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584476871494</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="46" y="123" key="#LeasingOffice" timestamp="1587332643643">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="46" y="123" key="#LeasingOffice/0.0.1440.900@0.0.1440.900" timestamp="1587332643643" />
+    <state x="0" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587232941261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587232941261" />
+    <state x="191" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1587672065668">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="191" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587672065668" />
+    <state x="273" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587232933099">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="273" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1587232933099" />
+    <state x="110" y="178" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1589145219764">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="110" y="178" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1440.900@0.0.1440.900" timestamp="1589145219764" />
+    <state x="137" y="163" key="#xdebugger.evaluate" timestamp="1590025701666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="137" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590025701666" />
+    <state width="1384" height="267" key="GridCell.Tab.0.bottom" timestamp="1591071805583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1384" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591071805583" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584477155104" />
+    <state width="676" height="210" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585467637617" />
+    <state width="1384" height="267" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1590951672650" />
+    <state width="1384" height="267" key="GridCell.Tab.0.center" timestamp="1591071805582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1384" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591071805582" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584477155103" />
+    <state width="676" height="210" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585467637616" />
+    <state width="1384" height="267" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1590951672649" />
+    <state width="1384" height="267" key="GridCell.Tab.0.left" timestamp="1591071805582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1384" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591071805582" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584477155103" />
+    <state width="676" height="210" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585467637616" />
+    <state width="1384" height="267" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1590951672612" />
+    <state width="1384" height="267" key="GridCell.Tab.0.right" timestamp="1591071805583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1384" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591071805583" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584477155104" />
+    <state width="676" height="210" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585467637617" />
+    <state width="1384" height="267" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1590951672649" />
+    <state width="707" height="253" key="GridCell.Tab.1.bottom" timestamp="1590025734113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590025734113" />
+    <state width="707" height="253" key="GridCell.Tab.1.center" timestamp="1590025734113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590025734113" />
+    <state width="707" height="253" key="GridCell.Tab.1.left" timestamp="1590025734112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590025734112" />
+    <state width="707" height="253" key="GridCell.Tab.1.right" timestamp="1590025734113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590025734113" />
+    <state width="707" height="253" key="GridCell.Tab.2.bottom" timestamp="1590025731858">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590025731858" />
+    <state width="707" height="253" key="GridCell.Tab.2.center" timestamp="1590025731857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1590025731857" />
+    <state width="707" height="253" key="GridCell.Tab.2.left" timestamp="1590025731857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1590025731857" />
+    <state width="707" height="253" key="GridCell.Tab.2.right" timestamp="1590025731857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1590025731857" />
+    <state width="707" height="253" key="GridCell.Tab.3.bottom" timestamp="1590025729743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590025729743" />
+    <state width="707" height="253" key="GridCell.Tab.3.center" timestamp="1590025729742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1590025729742" />
+    <state width="707" height="253" key="GridCell.Tab.3.left" timestamp="1590025729742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1590025729742" />
+    <state width="707" height="253" key="GridCell.Tab.3.right" timestamp="1590025729742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1590025729742" />
+    <state width="707" height="253" key="GridCell.Tab.4.bottom" timestamp="1590025724352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.4.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590025724352" />
+    <state width="707" height="253" key="GridCell.Tab.4.center" timestamp="1590025724351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.4.center/0.0.1440.900@0.0.1440.900" timestamp="1590025724351" />
+    <state width="707" height="253" key="GridCell.Tab.4.left" timestamp="1590025724351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.4.left/0.0.1440.900@0.0.1440.900" timestamp="1590025724351" />
+    <state width="707" height="253" key="GridCell.Tab.4.right" timestamp="1590025724352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1590025724352" />
+    <state width="707" height="253" key="GridCell.Tab.5.bottom" timestamp="1590025712606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.5.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590025712606" />
+    <state width="707" height="253" key="GridCell.Tab.5.center" timestamp="1590025712605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.5.center/0.0.1440.900@0.0.1440.900" timestamp="1590025712605" />
+    <state width="707" height="253" key="GridCell.Tab.5.left" timestamp="1590025712604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.5.left/0.0.1440.900@0.0.1440.900" timestamp="1590025712604" />
+    <state width="707" height="253" key="GridCell.Tab.5.right" timestamp="1590025712606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="707" height="253" key="GridCell.Tab.5.right/0.0.1440.900@0.0.1440.900" timestamp="1590025712606" />
+    <state x="0" y="33" key="SettingsEditor" timestamp="1589666808938">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589666808938" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1587264244071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1587264244071" />
+    <state x="376" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1585468003640">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="265" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585468003640" />
+    <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1584477947744" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1584476874622" />
+    <state x="376" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1584568727883" />
+    <state x="161" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589320826112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="161" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1589320826112" />
+    <state x="0" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590026186655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1590026186655" />
+    <state x="114" y="54" key="new project wizard" timestamp="1590942176186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="54" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1590942176186" />
+    <state x="224" y="354" key="save.project.as.template.dialog" timestamp="1587600323096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="224" y="354" key="save.project.as.template.dialog/0.0.1440.900@0.0.1440.900" timestamp="1587600323096" />
+    <state x="750" y="196" width="670" height="158" key="search.everywhere.popup" timestamp="1584843058312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="750" y="196" width="670" height="158" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584843058312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day10_switch_logical_operators/GradeChecker.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day_11_string_comparison_logical/AmazonShopping.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_ternary_string_manipulation/CafeNestedIf.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_ternary_string_manipulation/AmazonNestedIf.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_ternary_string_manipulation/FizzBuzz.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_ternary_string_manipulation/Cafe.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day17_while_do_while_loop/Alphabet.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgramingB15VA$LeasingOffice.ic" NAME="LeasingOffice Coverage Results" MODIFIED="1587332632109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day10_switch_logical_operators.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15VA$GiveMe5Dollars.ic" NAME="GiveMe5Dollars Coverage Results" MODIFIED="1590026862213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day17_while_do_while_loop.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0391b728-b8d7-4892-8f85-51423197c75f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/HappyB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/HappyB20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/helloB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/helloB20.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fNub3Vu6oN5aTSb5u2p31j1vRV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.kkk9">
+    <configuration name="HappyB20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyB20" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloB20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloB20" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kkk9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kkk9" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.kkk9" />
+        <item itemvalue="Application.HappyB20" />
+        <item itemvalue="Application.helloB20" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0391b728-b8d7-4892-8f85-51423197c75f" name="Default Changelist" comment="" />
+      <created>1596070939760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596070939760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="23" width="1240" height="827" key="DiffContextDialog" timestamp="1596300280706">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="100" y="23" width="1240" height="827" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1596300280706" />
+    <state width="1378" height="263" key="GridCell.Tab.0.bottom" timestamp="1596406726462">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1378" height="263" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596406726462" />
+    <state width="1378" height="263" key="GridCell.Tab.0.center" timestamp="1596406726460">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1378" height="263" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596406726460" />
+    <state width="1378" height="263" key="GridCell.Tab.0.left" timestamp="1596406726459">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1378" height="263" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596406726459" />
+    <state width="1378" height="263" key="GridCell.Tab.0.right" timestamp="1596406726461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1378" height="263" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596406726461" />
+    <state x="241" y="85" width="958" height="730" key="find.popup" timestamp="1596072482102">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="241" y="85" width="958" height="730" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596072482102" />
+  </component>
+</project>
