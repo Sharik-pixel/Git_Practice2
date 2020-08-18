@@ -69,7 +69,7 @@ public class BulkOperations {
 
         System.out.println("====================================================");
 
-        ArrayList<Integer>  num1 = new ArrayList<>();
+        ArrayList<Integer> num1 = new ArrayList<>();
         num1.addAll( Arrays.asList(1,1,2,2,3,3, 3,4,4,5,5,6,6,7,7,8,8,9,9, 10, 11, 12, 13, 14)  );
 
         System.out.println(num1);
